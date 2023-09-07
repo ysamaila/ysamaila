@@ -11,14 +11,13 @@ I am a passionate Frontend Developer with a strong focus on creating engaging an
 - JavaScript (JS)
 - React
 - Vue
-- Angular
 - Node.js
 - MongoDB
 - Amazon Web Services (AWS)
 
 ## GitHub Stats
 
-![Yusuf Samaila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufsamaila&show_icons=true&hide_border=true&count_private=true)
+![Yusuf Samaila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysamaila&show_icons=true&hide_border=true&count_private=true)
 
 ## Get in Touch
 
