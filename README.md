@@ -17,7 +17,7 @@ I am a passionate Frontend Developer with a strong focus on creating engaging an
 
 ## GitHub Stats
 
-![Yusuf Samaila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samailayusuf&show_icons=true&hide_border=true&count_private=true)
+![Yusuf Samaila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysamaila&show_icons=true&hide_border=true&count_private=true)
 
 ## Get in Touch
 
