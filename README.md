@@ -10,7 +10,6 @@ I am a passionate Frontend Developer with a strong focus on creating engaging an
 - CSS
 - JavaScript (JS)
 - React
-- Vue
 - Node.js
 - MongoDB
 - Amazon Web Services (AWS)
