@@ -8,8 +8,7 @@ I am a seasoned Frontend Developer with over three years of experience in HTML, 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [yusuf7samaila@gmail.com](mailto:yusuf7samaila@gmail.com)
-* 🚀  I'm currently working on [Outsource Global Technology Limited](http://www.outsourceglobal.com/)
-* 🧠  I'm learning Vue, Nuxt, and Laravel
+* 🧠  I'm learning NestJS, and Laravel
 * 🤝  I'm open to collaborating on Any challenging project
 
 <a href="https://www.github.com/ysamaila" target="_blank" rel="noreferrer"><img
