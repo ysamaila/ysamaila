@@ -8,7 +8,7 @@ I am a seasoned Frontend Developer with over three years of experience in HTML, 
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [yusuf.hilside@gmail.com](mailto:yusuf.hilside@gmail.com)
-* 🧠  I'm learning NestJS, and Laravel
+* 🧠  I'm using NestJS, NextJS, Flutter and React Native to build robust business solutions.
 * 🤝  I'm open to collaborating on Any challenging project
 
 <a href="https://www.github.com/ysamaila" target="_blank" rel="noreferrer"><img
