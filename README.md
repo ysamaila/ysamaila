@@ -2,56 +2,56 @@
 
   # Yusuf Samaila
   
-  ### Senior Backend & Systems Engineer • NestJS | Node.js | PostgreSQL
+  ### Backend Engineer • NestJS | Node.js | PostgreSQL
   
   <p align="center">
-    Architecting high-throughput distributed backends, resilient microservices, optimized database pipelines, and production-grade cloud infrastructure.
+    Building high-throughput backend services, resilient APIs, optimized database pipelines, and containerized cloud workloads.
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/yusuf-digachi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:yusuf7samaila@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/ysamaila"><img src="https://img.shields.io/github/followers/ysamaila?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="GitHub Followers" /></a>
+    <a href="https://github.com/ysamaila"><img src="https://img.shields.io/badge/GitHub-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
 
 ---
 
-### Executive Profile
+### Professional Summary
 
-Senior-oriented Backend Engineer with comprehensive experience architecting, scaling, and maintaining mission-critical backend systems using **NestJS**, **Node.js**, and **PostgreSQL**. Proven track record in decoupling monolithic workflows into modular event-driven services, tuning complex relational schemas for sub-millisecond query execution, and enforcing rigorous engineering standards via Test-Driven Development (TDD), Docker containerization, and AWS deployments. Combines backend architectural rigor with full-stack capability to drive cross-functional engineering velocity.
-
----
-
-### Key Technical Competencies & Senior Highlights
-
-#### Distributed Systems & Architecture
-- **Modular & Domain-Driven Design (DDD):** Architected modular enterprise services in NestJS with strict separation of concerns, repository patterns, and dependency injection.
-- **Event-Driven Workflows:** Implemented asynchronous event dispatchers, background job queues, and pub/sub patterns to decouple high-latency operations from the primary request thread.
-- **Resilience & Fault Tolerance:** Engineered defensive API layers with exponential backoff retries, idempotent request handling, rate limiting, and centralized exception filters.
-- **API Governance:** Authored deterministic OpenAPI/Swagger specifications and contract-first workflows to standardize data contracts across distributed web and mobile clients.
-
-#### Database Optimization & Data Integrity
-- **Query Performance & Indexing:** Conducted query execution plan analysis (`EXPLAIN ANALYZE`), strategically implementing composite, B-Tree, and partial indexes to eliminate full table scans.
-- **High-Volume Pagination:** Replaced legacy offset-based pagination with deterministic **cursor-based / keyset pagination**, maintaining constant $O(1)$ query latency across tables with millions of records.
-- **Transaction Safety & Concurrency:** Designed robust ACID transactional boundaries with proper isolation levels, optimistic locking strategies, and connection pool tuning.
-- **Zero-Downtime Migrations:** Managed safe, backwards-compatible relational schema migrations utilizing TypeORM and Prisma without service degradation.
-
-#### DevOps, Cloud Infrastructure & Security
-- **Optimized Containerization:** Engineered multi-stage Docker build configurations, reducing production image footprint by up to 65% while enforcing non-root runtime security.
-- **Automated CI/CD Pipelines:** Built automated GitHub Actions pipelines enforcing static analysis, linting, security vulnerability scans, and staged deployments.
-- **Cloud Architecture (AWS):** Configured cloud workloads utilizing environment-driven secrets management, S3 asset offloading, IAM least-privilege access control, and CloudWatch telemetry.
-- **Application Security:** Hardened endpoints against OWASP Top 10 vulnerabilities via strict payload validation (DTOs with Zod/class-validator), JWT refresh token rotation, and Role-Based Access Control (RBAC).
-
-#### Engineering Quality & Leadership
-- **Test-Driven Development (TDD):** Enforced comprehensive testing pyramids using **Jest**—covering unit mocks, integration databases, and isolated end-to-end (E2E) suites.
-- **Technical Mentorship:** Led engineering onboarding and mentorship programs at Outsource Global, upskilling junior engineers in clean code principles, system design, and debugging methodologies.
-- **Cross-Functional Alignment:** Bridged backend services with modern frontend frameworks (**React**, **React Native**), reducing API integration friction and cycle times.
+Backend Engineer with proven hands-on experience designing, scaling, and maintaining production backend systems using **NestJS**, **Node.js**, and **PostgreSQL**. Focused on modular clean architecture, database query tuning, asynchronous event handling, and reliable deployments via Test-Driven Development (TDD), Docker containerization, and AWS. Background in full-stack engineering enables smooth collaboration with frontend and client applications.
 
 ---
 
-### Core Tech Stack
+### Engineering Capabilities & Core Tasks
+
+#### Architecture & Backend Systems
+- **Modular Design:** Architecting decoupled enterprise modules in NestJS with strict separation of concerns, repository patterns, and dependency injection.
+- **Asynchronous & Event-Driven Patterns:** Implementing background job queues, event listeners, and decoupled services for non-blocking I/O and high concurrency.
+- **Defensive API Engineering:** Implementing idempotent requests, exponential backoff retries, centralized exception handling filters, and rate-limiting.
+- **API Contracts:** Authoring clear OpenAPI / Swagger documentation and DTO schemas to ensure deterministic contracts across web and mobile consumers.
+
+#### Database Performance & Data Engineering
+- **Query Optimization & Profiling:** Analyzing query execution plans (`EXPLAIN ANALYZE`), strategically creating composite and partial indexes to eliminate full-table scans.
+- **Cursor-Based Pagination:** Implementing cursor-based / keyset pagination for high-volume endpoints to prevent standard offset degradation on large datasets.
+- **Data Integrity & Concurrency:** Designing safe relational schemas, enforcing ACID transactional boundaries, and tuning connection pools.
+- **Database Migrations:** Handling zero-downtime, backwards-compatible migrations using TypeORM and Prisma.
+
+#### DevOps, Cloud & Security
+- **Multi-Stage Containerization:** Writing optimized multi-stage Dockerfiles that minimize image sizes and enforce non-root security.
+- **CI/CD Pipelines:** Setting up automated GitHub Actions workflows for automated linting, test suites, and staging deployments.
+- **Cloud Infrastructure (AWS):** Deploying containerized services on AWS with environment-based configuration, IAM access boundaries, and S3 asset offloading.
+- **Endpoint Security:** Hardening APIs against OWASP risks using strict request validation (class-validator/Zod), JWT authentication with refresh token strategies, and Role-Based Access Control (RBAC).
+
+#### Quality Assurance & Mentorship
+- **Test-Driven Development (TDD):** Writing robust automated test suites with **Jest** covering unit tests, integration scenarios, and mock-isolated E2E tests.
+- **Developer Training & Mentorship:** Mentoring junior engineers on backend fundamentals, clean architecture, database patterns, and debugging methodologies.
+- **Full-Stack Integration:** Collaborating across the stack with **React** and **React Native**, streamlining payload structures and eliminating API integration bottlenecks.
+
+---
+
+### Technical Stack
 
 #### Backend & Core Languages
 <p align="left">
@@ -64,7 +64,7 @@ Senior-oriented Backend Engineer with comprehensive experience architecting, sca
   <img src="https://img.shields.io/badge/REST_APIs-0891B2?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
-#### Persistence & Caching
+#### Databases & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -72,7 +72,7 @@ Senior-oriented Backend Engineer with comprehensive experience architecting, sca
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-#### Cloud, DevOps & Quality Assurance
+#### Cloud, DevOps & Testing
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -91,32 +91,32 @@ Senior-oriented Backend Engineer with comprehensive experience architecting, sca
 
 ---
 
-### Professional Experience
+### Experience Snapshot
 
 - **Fullstack / Backend Developer — Outsource Global** *(July 2024 – Present)*
-  - Spearheaded backend engineering for core product suites, implementing modular NestJS microservices and strict TypeORM repository patterns.
-  - Tuned PostgreSQL query pipelines through composite indexing and execution plan profiling, resulting in significant response time reductions across high-load endpoints.
-  - Implemented cursor-based pagination architecture across data-intensive endpoints, guaranteeing sub-50ms latency regardless of table depth.
-  - Introduced containerized multi-stage Docker workflows and standardized CI/CD pipelines, accelerating deployment frequency and team delivery confidence.
+  - Designed and deployed scalable NestJS backend services following modular separation of concerns.
+  - Optimized PostgreSQL queries and indexing strategies, reducing response times on high-traffic endpoints.
+  - Implemented cursor-based pagination for data-heavy requests, maintaining reliable latency on large collections.
+  - Built multi-stage Docker environments and enforced Jest unit/integration test suites across services.
 
 - **Software Development Trainer — Outsource Global** *(March 2024 – Present)*
-  - Directed technical curriculum and hands-on mentorship for engineering cohorts, focusing on distributed systems, relational modeling, API security, and production debugging.
-  - Established structured code review standards, enforcing clean architecture, DRY principles, and automated testing benchmarks.
+  - Led technical mentorship for junior developers on backend design patterns, APIs, databases, and debugging techniques.
+  - Guided developers through real-world Node.js and NestJS implementation and code reviews.
 
 - **Fullstack Developer (Freelance) — SINC Partners, Abuja** *(November 2023 – March 2024)*
-  - Designed controller-based REST APIs in Node.js and Express with MongoDB data models for high-concurrency client transactions.
-  - Delivered end-to-end features across web (React) and mobile (React Native), managing asset delivery optimization via Cloudinary pipelines.
+  - Developed controller-based REST APIs using Node.js, Express, and MongoDB.
+  - Integrated full-stack applications with React web and React Native mobile frontends.
 
 ---
 
-### Education & Credentials
+### Education & Location
 
-- **Degree:** B.Sc. in Computer Science — Federal University Kashere, Gombe, Nigeria
-- **Availability:** Open to Senior Backend, Distributed Systems, and Full-Stack Engineering roles globally (Remote).
+- **Education:** B.Sc. in Computer Science — Federal University Kashere, Gombe, Nigeria
+- **Location:** Gombe, Nigeria • Open to global remote backend engineering opportunities
 
 ---
 
-### Performance & GitHub Metrics
+### GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ysamaila&show_icons=true&count_private=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&text_color=e2e8f0&bg_color=0f172a&hide_border=true" height="165" alt="GitHub Stats" />
